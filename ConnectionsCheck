@@ -1,0 +1,18 @@
+SmartPoi Connections:
+
+esp8266:
+1. RXD - not connected
+2. GPIO 0 - to APA102 Clock In
+3. GPIO 2 - via R1 to APA102 Data In
+4. GND - ground
+5. TXD - not connected
+6. CH_PD pulled high via R2
+7. RST - pulled high via R3
+8. VCC - to 3.3v
+
+new dimensions with header: height 16mm width27mm length37mm
+
+AfroCard dimensions from C-Boards: width 140mm height 180mm
+
+
+

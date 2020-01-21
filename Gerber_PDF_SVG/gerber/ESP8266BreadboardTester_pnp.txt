@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ESP8266BreadboardTester
+*Date=14:04:03
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;0.1µF;100 mil [THT, multilayer];6.07935;-16.2108;0;Bottom;104
+2;;;20.5622;-9.84152;-90;Bottom;ESP
+3;;molex-1x4_lock;31.5041;-12.1464;-90;Bottom;APA102
+4;220;THT;15.3562;-8.86011;90;Bottom;R1
+5;;screwterminal-3.5mm-3_lock.007s;9.60839;-8.61634;-90;Bottom;jack switch
+6;;THT;2.52216;-10.3019;180;Bottom;+ -
+7;;;1.6815;-23.0542;0;Bottom;Via3
+8;;;33.1816;-23.1116;0;Bottom;Via1
+9;;;7.47975;-2.11531;0;Bottom;TXT1
+10;;;1.65361;-1.78907;0;Bottom;Via4
+11;220;THT;24.8708;-12.4727;-90;Bottom;R2
+12;10µF;100 mil [THT, electrolytic];3.63666;-19.2471;0;Bottom;C4
+13;;;33.2832;-1.6455;0;Bottom;Via2
+14;;;20.3583;-21.2227;0;Bottom;Jumper3
+15;1mF;100 mil [THT, electrolytic];17.1308;-18.3903;-45;Bottom;1000uF
+16;3.3V;78xxl;15.6226;-27.7307;0;Bottom;U2
+17;220;THT;27.1734;-14.044;-90;Bottom;R3
